@@ -84,13 +84,7 @@ padding-bottom: 44px;
 }
 
 
-.container {
-width: 100%;
-padding-right: 15px;
-padding-left: 15px;
-margin-right: auto;
-margin-left: auto;
-}
+
 nav{
 background-color:#0648b3;
 
@@ -201,9 +195,6 @@ text-align: left;
 align-items:flex-end ;
 }
 
-
-
-/*footer*/
 .container {
 width: 100%;
 padding-right: 15px;
@@ -211,6 +202,7 @@ padding-left: 15px;
 margin-right: auto;
 margin-left: auto;
 }
+
 nav{
 background-color:#0648b3;
 
@@ -328,4 +320,8 @@ border-radius: 50px;
 
 .mr-2{
 margin-right: 20px;
+}
+.navbar{
+  margin-bottom: 0px;
+  border-radius: 0px;
 }
