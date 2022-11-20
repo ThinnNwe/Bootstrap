@@ -3,7 +3,9 @@ body {
   overflow-x: hidden;
 }
 
-
+h4{
+  font-weight: bold;
+}
 .first-container{
   padding-bottom: 35px;
   background-color: #0648b3!important;   
